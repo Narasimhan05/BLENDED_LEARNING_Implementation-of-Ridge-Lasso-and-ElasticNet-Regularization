@@ -2,7 +2,7 @@
 # Implementation of Ridge, Lasso, and ElasticNet Regularization for Predicting Car Price
 
 ## AIM:
-To implement Ridge, Lasso, and ElasticNet regularization models using polynomial features and pipelines to predict car price.
+To implement Ridge, Lasso, and ElasticNet regularization models using polynomial features and pipelines to predict car price
 
 ## Equipments Required:
 1. Hardware – PCs
